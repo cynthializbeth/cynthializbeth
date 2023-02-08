@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola 👋
 
-<!--
-**cynthializbeth/cynthializbeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Cynthia soy estudiante en la Facultad de Ciencias de la Universidad Nacional Autonoma de México (UNAM), estudio Ciencias de la Computación.
 
-Here are some ideas to get you started:
+Las áreas que me interesan son:
+* Seguridad
+* Inteligencia Artificial
+* Desarrollo Web 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mis pasatiempos son:
+
+* Escuchar música :nota_musical:
+* Hacer figuras de alambre 
+* Escribir poemas
+* Leer
