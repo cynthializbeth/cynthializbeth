@@ -11,5 +11,4 @@ Mis pasatiempos son:
 
 * Escuchar música 🎵
 * Hacer figuras de alambre 🕷️
-* Escribir poemas 📝
 * Leer 📚
